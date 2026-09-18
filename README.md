@@ -2,6 +2,9 @@
 
 An AI-powered PDF question-answering application built with Python and Streamlit.
 
+<img width="1732" height="1070" alt="Screenshot 2026-09-18 180825" src="https://github.com/user-attachments/assets/308a718e-34a1-491a-aa6b-bb00b839bd83" />
+
+
 ## Features
 
 - Upload PDF documents
